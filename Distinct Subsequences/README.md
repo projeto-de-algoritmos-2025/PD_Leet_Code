@@ -8,11 +8,12 @@ The test cases are generated so that the answer fits on a 32-bit signed integer.
 
 ### Caso 1
 
-![Case1](/Course%20Schedule/assets/img/caso1.png)
+![Case1](/Distinct%20Subsequences/assets/img/caso1.png)
 
 ### Caso 2
-![Case2](/Course%20Schedule/assets/img/caso2.png)
+
+![Case2](/Distinct%20Subsequences/assets/img/caso2.png)
 
 ### Submissão
 
-![Submission](/Course%20Schedule/assets/img/submissao.png)
+![Submission](/Distinct%20Subsequences/assets/img/submissao.png)
