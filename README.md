@@ -26,6 +26,6 @@ A partir do juiz Online [LeetCode](https://leetcode.com/) selecionamos 3 exercí
 |Exercício | Aluno |
 | -- | -- |
 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/) | Ana Caroline C. Rocha |
-|  |  |
-|  |  |
+| [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/) | Lucas Gobbi Bergholz |
+| [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/description/) | Lucas Gobbi Bergholz |
 
