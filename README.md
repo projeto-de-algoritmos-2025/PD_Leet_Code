@@ -2,7 +2,7 @@
 
 **Número da Lista:** 5<br>
 **Conteúdo da Disciplina:** Programação Dinâmica<br>
-**Vídeo de Apresentação:**
+**Vídeo de Apresentação:** [https://youtu.be/4PXdofUSALw](https://youtu.be/4PXdofUSALw)
 
 ## Alunos
 |Matrícula | Aluno |
