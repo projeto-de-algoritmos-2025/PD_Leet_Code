@@ -19,7 +19,7 @@ A partir do juiz Online [LeetCode](https://leetcode.com/) selecionamos 3 exercí
 
 |Exercício | Aluno |
 | -- | -- |
-|  |  |
+| [Coin Change](https://leetcode.com/problems/coin-change/description/) | Ana Caroline C. Rocha |
 
 ### Nível Difícil
 
