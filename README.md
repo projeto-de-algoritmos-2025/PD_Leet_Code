@@ -25,7 +25,7 @@ A partir do juiz Online [LeetCode](https://leetcode.com/) selecionamos 3 exercí
 
 |Exercício | Aluno |
 | -- | -- |
-|  |  |
+| [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/) | Ana Caroline C. Rocha |
 |  |  |
 |  |  |
 
